@@ -1,4 +1,4 @@
-# IC-2K23-50-DAA--Keshav-Sharma-
+# IC-2K23-13-DAA--Ashwin-Supath-
 # Design and Analysis of Algorithms (DAA) Lab
 
 This repository contains my laboratory assignments and implementations for the Design and Analysis of Algorithms course. All algorithms are implemented in Python and feature a custom benchmarking engine to dynamically compare theoretical time complexity against experimental hardware execution times.
